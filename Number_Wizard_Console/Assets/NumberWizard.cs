@@ -8,9 +8,9 @@ public class NumberWizard : MonoBehaviour
     void Start()
     {
         Debug.Log("Welcome to number wizard!");
-        Debug.Log("Please pick a number");
+        Debug.Log("Pick a number, any number! As long as..");
         Debug.Log("The highest number allowed is 1000");
-        Debug.Log("The lowest number allowed is 1");
+        Debug.Log("And the lowest number allowed is 1");
     }
 
     // Update is called once per frame
